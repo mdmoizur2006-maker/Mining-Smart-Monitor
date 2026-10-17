@@ -14,11 +14,11 @@
 // Wi-Fi name and password are NOT hardcoded.
 // They are entered from the ESP32 setup web page.
 
-#define FIREBASE_API_KEY     ""
-#define FIREBASE_DATABASE_URL ""
+#define FIREBASE_API_KEY     "AIzaSyA2idM_KJxjjxXuHYNDHAZDyAvIkWRg2t4"
+#define FIREBASE_DATABASE_URL "https://mining-smart-monitor-default-rtdb.asia-southeast1.firebasedatabase.app"
 
-#define FIREBASE_USER_EMAIL    ""
-#define FIREBASE_USER_PASSWORD ""
+#define FIREBASE_USER_EMAIL    "esp32@miningsmartmonitor.com"
+#define FIREBASE_USER_PASSWORD "MiningESP32@2026!"
 
 FirebaseData fbdo;
 FirebaseData fbCommand;
